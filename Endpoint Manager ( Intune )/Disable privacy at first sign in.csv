@@ -1,0 +1,4 @@
+Disable privacy at first sign in,Disable privacy at first sign in,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,0
+,,,
+,,,
+Description  : template -->  custom --> oma-uri,,,
